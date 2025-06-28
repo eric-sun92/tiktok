@@ -1,0 +1,56 @@
+{
+  "code": 0,
+  "msg": "success",
+  "processed_time": 0.1908,
+  "data": {
+    "aweme_id": "v12044gd0000chf9eabc77u9q6ptbo60",
+    "id": "7232384225691880746",
+    "region": "US",
+    "title": "tag that person who can always read your mind",
+    "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/3d7531ae175c4e5dbdabb31e5897cc70_1683920691~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=48ae78cd&x-expires=1751162400&x-signature=kZMnh9FMIIFnbGzjWMWg0zhvjy0%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=AWEME_DETAIL",
+    "ai_dynamic_cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/6e1e51539e6c482ab3cb2af8d844eb8f_1683920692~tplv-tiktokx-origin.image?dr=14575&refresh_token=1872ed4e&x-expires=1751162400&x-signature=OQ2xCnuN9ERRFos6wfWKXZUNcEM%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=AWEME_DETAIL",
+    "origin_cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/4a234410949e48859b2967a134f7cb6e_1683920691~tplv-tiktokx-360p.webp?dr=14555&refresh_token=ac93ae12&x-expires=1751162400&x-signature=4mewvfiGVSJBW8PyF4Rz4pLlRDo%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=AWEME_DETAIL&ftpl=1",
+    "duration": 9,
+    "play": "https://v16m-default.tiktokcdn.com/8eb8611a48ecfb303f530e42968fddcb/685facab/video/tos/maliva/tos-maliva-ve-0068c799-us/ocCQEBIYD8ARVXggoRMnSperpwlCcnkeLDsbBz/?a=0&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C0&cv=1&br=1760&bt=880&cs=0&ds=6&ft=EeF4ntZWD0hQ12NvvF6CWIxR3Oz8Eq_45SY&mime_type=video_mp4&qs=0&rc=ODk3OWQ7OjZnM2g1OzM4OUBpM3J3OTw6ZmQ8azMzZzczNEBhMTEzMjQuXi0xLV5fLjZeYSMzX21ucjRfYmNgLS1kMS9zcw%3D%3D&vvpl=1&l=202506281049386E5D0227E2136629C3C8&btag=e000b0000",
+    "wmplay": "https://v16m-default.tiktokcdn.com/b271d1a3edb15fbcd93128bcbabc491a/685facab/video/tos/maliva/tos-maliva-ve-0068c799-us/oEaQEI7YD8ARSXggoRenSperpwLCcnk9xDsbBn/?a=0&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C0&cv=1&br=1860&bt=930&cs=0&ds=3&ft=EeF4ntZWD0hQ12NvvF6CWIxR3Oz8Eq_45SY&mime_type=video_mp4&qs=0&rc=NGY2OWU7ZGdkNjo2ZDY6OUBpM3J3OTw6ZmQ8azMzZzczNEA1LzBeX2AyXl4xYDI1MzItYSMzX21ucjRfYmNgLS1kMS9zcw%3D%3D&vvpl=1&l=202506281049386E5D0227E2136629C3C8&btag=e000b0000",
+    "size": 1057015,
+    "wm_size": 1117329,
+    "music": "https://v16-ies-music.tiktokcdn.com/95d084eb73ceadd3e11e41467f0ab08d/68689306/video/tos/useast2a/tos-useast2a-ve-2774/71f33c99b77248df8fc9415eb872bf67/?a=583965&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=128&bt=64&ft=EKFInkZWD0hQ12NvvF6CWIxR3Oz8Eq_45SY&mime_type=audio_mp4&qs=3&rc=ZzdoZWlpaTZkNGUzaTY1ZUBpM3R2bDk6ZmtsZzMzODlkNEA1MWJgMC02NTUxYTExLy0zYSNqb2s1cjRnMjRgLS1kYS1zcw%3D%3D&vvpl=1&l=202506281049386E5D0227E2136629C3C8&btag=e00088000&shp=d05b14bd&shcp=-",
+    "music_info": {
+      "id": "7146691693914491694",
+      "title": "Speak Up",
+      "play": "https://v16-ies-music.tiktokcdn.com/95d084eb73ceadd3e11e41467f0ab08d/68689306/video/tos/useast2a/tos-useast2a-ve-2774/71f33c99b77248df8fc9415eb872bf67/?a=583965&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=128&bt=64&ft=EKFInkZWD0hQ12NvvF6CWIxR3Oz8Eq_45SY&mime_type=audio_mp4&qs=3&rc=ZzdoZWlpaTZkNGUzaTY1ZUBpM3R2bDk6ZmtsZzMzODlkNEA1MWJgMC02NTUxYTExLy0zYSNqb2s1cjRnMjRgLS1kYS1zcw%3D%3D&vvpl=1&l=202506281049386E5D0227E2136629C3C8&btag=e00088000&shp=d05b14bd&shcp=-",
+      "cover": "https://p16-sg.tiktokcdn.com/img/tos-useast2a-v-2774/ocQ8OyABfBAlAjBVW6Ds3xEwMisthtoAHoiEAJ~c5_720x720.jpeg",
+      "author": "is0kenny",
+      "original": false,
+      "duration": 34,
+      "album": "Speak Up (Remastered)"
+    },
+    "play_count": 633209,
+    "digg_count": 52232,
+    "comment_count": 708,
+    "share_count": 227,
+    "download_count": 54,
+    "collect_count": 24023,
+    "create_time": 1683920690,
+    "anchors": null,
+    "anchors_extras": "",
+    "is_ad": false,
+    "commerce_info": {
+      "adv_promotable": false,
+      "auction_ad_invited": false,
+      "branded_content_type": 0,
+      "organic_log_extra": "{\"req_id\":\"202506281049386E5D0227E2136629C3C8\"}",
+      "with_comment_filter_words": false
+    },
+    "commercial_video_info": "",
+    "item_comment_settings": 0,
+    "mentioned_users": "",
+    "author": {
+      "id": "107955",
+      "unique_id": "tiktok",
+      "nickname": "TikTok",
+      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ba67b11de451691939223e9d978e613a~tplv-tiktokx-cropcenter:300:300.jpeg?dr=14577&refresh_token=67b36362&x-expires=1751162400&x-signature=7s7zGpOnwyZJGE1aVgBVOMy4TKc%3D&t=4d5b0474&ps=13740610&shp=45126217&shcp=d05b14bd&idc=maliva"
+    }
+  }
+}
