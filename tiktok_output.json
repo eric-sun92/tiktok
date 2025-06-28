@@ -1,0 +1,56 @@
+{
+  "code": 0,
+  "msg": "success",
+  "processed_time": 0.2028,
+  "data": {
+    "aweme_id": "v24025gl0000d1ddj0fog65oij6q75ig",
+    "id": "7519585162250734870",
+    "region": "CZ",
+    "title": "sparks (dakota's version) #coldplay #fyp #fyplyrics #lyrics #fypsounds #lyricsvideos #lyricsedit #viralsounds #virallyrics #dontletthisflop #musictok #lipsyncaudio #audiosforedits #editaudio",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/owrApYBBI2FiZ9EA1w7il5cvrBVAtyrAcaazA~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=68ffec17&x-expires=1751166000&x-signature=dh94XbhJJy9N%2FMHwFjFXwxJt97Y%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=AWEME_DETAIL",
+    "ai_dynamic_cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/owrApYBBI2FiZ9EA1w7il5cvrBVAtyrAcaazA~tplv-tiktokx-origin.image?dr=14575&refresh_token=a55e1e6c&x-expires=1751166000&x-signature=ZM6%2BlcKkwPPznOyNC0qK6jK6MmU%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=AWEME_DETAIL",
+    "origin_cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oQxCzuBPiClAL7aXJKvlAAjBl42IIyAfw0WMji~tplv-tiktokx-360p.webp?dr=14555&refresh_token=6e315952&x-expires=1751166000&x-signature=NqlgRoIPfM7gtnBICnCkMFtZDbY%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=AWEME_DETAIL&ftpl=1",
+    "duration": 18,
+    "play": "https://v16m-default.tiktokcdn.com/797f3809a921a2df4db0255312f0de8a/685fb611/video/tos/no1a/tos-no1a-ve-0068-no/oQCtWBQgk0AFKEt75tVLxWfZgmDDFBeIHFuoKa/?a=0&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C0&cv=1&br=160&bt=80&cs=0&ds=6&ft=EeF4ntZWD0hQ12NvPCBCWIxRnDc8Eq_45SY&mime_type=video_mp4&qs=0&rc=NDNmMzk8ZWczZzU4OTs1ZEBpajh0bXI5cjNnNDMzbzgzNUAxL14uMTVfXjYxNjNeLy4wYSNmNDNmMmRjZ2FhLS1kLzFzcw%3D%3D&vvpl=1&l=2025062811293560D29F2A5DFCEB5F38CD&btag=e000b8000",
+    "wmplay": "https://v16m-default.tiktokcdn.com/0e0a153e25cbc6ad6ffefb58418211bc/685fb611/video/tos/no1a/tos-no1a-ve-0068c001-no/oINCz9B5itlAL7aL7K8lAAjBl42IEyDfw0WMti/?a=0&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C0&cv=1&br=200&bt=100&cs=0&ds=3&ft=EeF4ntZWD0hQ12NvPCBCWIxRnDc8Eq_45SY&mime_type=video_mp4&qs=0&rc=N2Y3Nzc2aDVkNDVnZWc5OkBpajh0bXI5cjNnNDMzbzgzNUA2NC0tNi0uNTMxMzIwMC1hYSNmNDNmMmRjZ2FhLS1kLzFzcw%3D%3D&vvpl=1&l=2025062811293560D29F2A5DFCEB5F38CD&btag=e000b8000",
+    "size": 195086,
+    "wm_size": 243635,
+    "music": "https://v16-ies-music.tiktokcdn.com/96ac1fe375264e9cdc950f526ef08c24/68689c43/video/tos/no1a/tos-no1a-v-2370-no/ocMuaBrkXyEbAiM0lLifCAw7U7a9d8IkEnB9Kx/?a=583965&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=EKFInkZWD0hQ12NvPCBCWIxRnDc8Eq_45SY&mime_type=audio_mpeg&qs=6&rc=ODVoaWQ3PGVnM2U2OTk0NUBpM241Nnc5cnJoNDMzbzU8NUA2LTIuXzA2XzIxMmAzLzFhYSNyai1mMmRzcWFhLS1kMTFzcw%3D%3D&vvpl=1&l=2025062811293560D29F2A5DFCEB5F38CD&btag=e000b8000&shp=d05b14bd&shcp=-",
+    "music_info": {
+      "id": "7519585170706500375",
+      "title": "original sound - italicque",
+      "play": "https://v16-ies-music.tiktokcdn.com/96ac1fe375264e9cdc950f526ef08c24/68689c43/video/tos/no1a/tos-no1a-v-2370-no/ocMuaBrkXyEbAiM0lLifCAw7U7a9d8IkEnB9Kx/?a=583965&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=EKFInkZWD0hQ12NvPCBCWIxRnDc8Eq_45SY&mime_type=audio_mpeg&qs=6&rc=ODVoaWQ3PGVnM2U2OTk0NUBpM241Nnc5cnJoNDMzbzU8NUA2LTIuXzA2XzIxMmAzLzFhYSNyai1mMmRzcWFhLS1kMTFzcw%3D%3D&vvpl=1&l=2025062811293560D29F2A5DFCEB5F38CD&btag=e000b8000&shp=d05b14bd&shcp=-",
+      "cover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/c700a0a18f71bd99c989322c90a6f533~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=5f758350&x-expires=1751166000&x-signature=jErTuRwkvwvWPuuaT2QiI%2F%2FCyO4%3D&t=4d5b0474&ps=13740610&shp=45126217&shcp=d05b14bd&idc=maliva",
+      "author": "polina",
+      "original": true,
+      "duration": 18,
+      "album": ""
+    },
+    "play_count": 593673,
+    "digg_count": 137685,
+    "comment_count": 176,
+    "share_count": 2162,
+    "download_count": 657,
+    "collect_count": 16873,
+    "create_time": 1750789857,
+    "anchors": null,
+    "anchors_extras": "",
+    "is_ad": false,
+    "commerce_info": {
+      "adv_promotable": false,
+      "auction_ad_invited": false,
+      "branded_content_type": 0,
+      "organic_log_extra": "{\"req_id\":\"2025062811293560D29F2A5DFCEB5F38CD\"}",
+      "with_comment_filter_words": false
+    },
+    "commercial_video_info": "",
+    "item_comment_settings": 0,
+    "mentioned_users": "",
+    "author": {
+      "id": "7441261637459346465",
+      "unique_id": "italicque",
+      "nickname": "polina",
+      "avatar": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/c700a0a18f71bd99c989322c90a6f533~tplv-tiktokx-cropcenter:300:300.jpeg?dr=14577&refresh_token=813aeec6&x-expires=1751166000&x-signature=ACg2BwSSzi1I6fFF5ALDCRXjT38%3D&t=4d5b0474&ps=13740610&shp=45126217&shcp=d05b14bd&idc=maliva"
+    }
+  }
+}
